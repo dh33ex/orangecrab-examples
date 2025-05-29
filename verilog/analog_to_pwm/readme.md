@@ -26,10 +26,7 @@ Since the input signal on the board is connected through the divider R44-R45, th
 - Use of a finite element machine
 
 ## Specification
-### Frequency:
-The cutoff frequency of the RC circuit is about 312 Hz.
-
-### Samplerate:
+### Sample rate:
 The full cycle of one measurement consists of SETUP + CHARGE + DISCHARGE, which is ~1560 us/Sa or 640 Sa/s, respectively.
 
 ### Resolution:
